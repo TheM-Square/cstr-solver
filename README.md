@@ -74,8 +74,7 @@ python cstr_solvers.py
 ```
 
 Outputs a convergence comparison plot (`cstr_convergence.png`).
-![/CSTR PLOT.png]
-
+(/CSTR PLOT.png)
 ---
 
 ## File Structure
