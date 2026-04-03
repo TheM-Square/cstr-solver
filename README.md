@@ -2,7 +2,7 @@
 
 Root-finding methods applied to a steady-state CSTR mole balance. Implements Bisection, Newton-Raphson, and Secant methods from scratch in Python and compares their convergence behaviour.
 
-![CSTR Solver Diagram](assets/diagram.svg)
+![CSTR Solver Diagram](/diagram.svg)
 
 ---
 
@@ -79,13 +79,6 @@ Outputs a convergence comparison plot (`cstr_convergence.png`).
 
 ## File Structure
 
-```
-cstr-solvers/
-├── cstr_solvers.py      # main script
-├── assets/
-│   └── diagram.svg      # reactor schematic + convergence chart
-└── README.md
-```
 
 ---
 
