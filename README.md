@@ -77,8 +77,6 @@ Outputs a convergence comparison plot (`cstr_convergence.png`).
 (/CSTR PLOT.png)
 ---
 
-## File Structure
-
 
 ---
 
